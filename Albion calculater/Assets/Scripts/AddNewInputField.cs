@@ -5,8 +5,6 @@ using TMPro;
 using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UIElements;
-using Toggle = UnityEngine.UI.Toggle;
 
 public class AddNewInputField : MonoBehaviour
 {
